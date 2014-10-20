@@ -18,9 +18,7 @@ body {
   position: absolute;
   width: 880px;
   left: 50%;
-  top:50%;
   margin-left: -440px;
-  margin-top: -440px;
 }
 
 /* clear fix */
